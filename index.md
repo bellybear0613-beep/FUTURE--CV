@@ -1,5 +1,4 @@
 # Future Resume
-[이력서 보러가기](./README.md)
 
 Future Resume
 
